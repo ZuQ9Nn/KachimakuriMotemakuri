@@ -21,5 +21,5 @@ MIT License
 Other 
 ================
 ・Movie(Japanes only)
-![勝ちまくりモテまくり](https://www.youtube.com/embed/3M_vkWF0mp0 "動画")
+https://www.youtube.com/embed/3M_vkWF0mp0
 
