@@ -20,7 +20,5 @@ MIT License
 
 Other 
 ================
-・Blog (Japanes only)
-[:embed]
 ・Movie(Japanes only)
-[:embed]
+[https://www.youtube.com/embed/3M_vkWF0mp0:embed]
